@@ -2,5 +2,5 @@
 
 ### Hi there 👋, I'm Mike. I like to dabble in all things automation, PowerShell, and Azure! 
 
-- 🔭 I’m an Azure FastTrack Engineer at Microsoft where I am part of the Fast Track Infrastructure team.
+- 🔭 I’m an Azure FastTrack Engineer at Microsoft where I am part of the FastTrack Azure Infrastructure team.
 - 😄 Pronouns: he/him/father/golfer
