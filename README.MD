@@ -4,3 +4,5 @@
 
 - 🔭 I’m an Azure FastTrack Engineer at Microsoft where I am part of the FastTrack Azure Infrastructure team.
 - 😄 Pronouns: he/him/father/golfer
+- ⚡ Fun fact: The original project for what ultimately became Microsoft Azure was a project code-named "Project Red Dog".
+- 🌱 I’m currently learning Azure Virtual Desktop (AVD)
