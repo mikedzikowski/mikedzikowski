@@ -1,4 +1,4 @@
-<img align="right" src="https://github.com/mikedzikowski/mikedzikowski/blob/main/me.png" alt="AI generated picture of Mike Dzikowski" width=400px />
+<img align="right" src="https://github.com/mikedzikowski/mikedzikowski/blob/main/me.jpg" alt="AI generated picture of Mike Dzikowski" width=400px />
 
 ### Hi there 👋, I'm Mike. I like to dabble in all things automation, PowerShell, and Azure! 
 
