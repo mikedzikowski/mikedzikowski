@@ -3,5 +3,4 @@
 ### Hi there 👋, I'm Mike. I like to dabble in all things automation, PowerShell, and ~~Azure~~ CrowdStrike Falcon! 
 
 - 🔭 I’m a ~~Azure FastTrack Engineer at Microsoft where I am part of the FastTrack Azure Infrastructure team~~ Senior Cloud Engineer at CrowdStrike.
-- 😄 Pronouns: he/him/father/golfer
 - 🌱 I’m currently learning ~~Azure Virtual Desktop (AVD)~~ all things CrowdStrike
